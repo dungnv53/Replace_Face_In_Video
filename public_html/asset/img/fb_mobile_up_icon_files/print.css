@@ -1,0 +1,12 @@
+@import url("common/tool.css");@import url("common/body.css");@import url("common/loom.css");div.loom table th{font-weight:bold!important}
+.loom{font-size:12px!important}
+#container{width:100%;padding:0}
+a,a:link,a:visited,a:active{color:#00f}
+h1{font-size:18px}
+h2{font-size:16px}
+h3,h4{font-size:14px}
+body{font-size:12px}
+#headSection ul,#naviBar ul,#footSection ul,.pagetop{display:none}
+img.star-container-add,img.star{display:none!important}
+#global,#header,footer,#projectNav,#bodyRight,.pagetop{display:none}
+#bodyLeft #bodyLeftInner{margin-right:0!important}
