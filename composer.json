@@ -6,7 +6,7 @@
 	"require": {
 		"laravel/framework": "4.1.*",
         "dollar/generators": "dev-master",
-        "facebook/php-sdk-v4" : "4.0.*",
+        "facebook/php-sdk-v4" : "8.6.*",
         "fbf/laravel-youtube": "dev-master"
 	},
 	"autoload": {
